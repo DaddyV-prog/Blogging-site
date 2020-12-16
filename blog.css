@@ -1,0 +1,82 @@
+body{
+    background-color: pink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("blog.jpg")
+    
+    
+    
+}
+h1{
+    text-align: center; 
+    color: Black;
+    background-color: pink;
+    opacity: 1;
+}
+
+li{
+    background-color:white;
+    color: blue;
+    margin: 0px;
+    padding: 3px;
+    
+    border-style: solid;
+    display: inline;
+    
+    
+}
+b{
+    position: absolute;
+    left: 230px;
+    color:blue;
+    font-weight: bolder;
+    opacity: 1em;
+
+}
+i{
+    position: absolute;
+    left: 500px;
+    color: blue;
+    font-weight: bolder;
+    opacity: 1em;
+}
+strong{
+    position: absolute;
+    left: 230px;
+    color: blue;
+    font-weight: bolder;
+    opacity: 1em;
+}
+.get {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    background-color: white;
+    color: blue;
+    text-align: center;
+    border: solid;
+    border-color: pink;
+}
+.one {
+    position: fixed;
+    top: 26px;
+    left: 1007px;   
+}
+.two {
+    position: fixed;
+    top: 26px;
+    left: 1050px;
+}
+.three {
+    position: fixed;
+    top: 26px;
+    left: 1130px;
+}
+.four {
+    position: fixed;
+    top: 26px;
+    left: 1180px;
+}
+.five {
+    position: fixed;
+    top: 26px;
+    left: 1238px;
+}
